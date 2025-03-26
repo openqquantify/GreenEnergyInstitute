@@ -1,3 +1,4 @@
+
 # Green Energy Institute
 
 This application showcases renewable energy solutions and provides tools for calculating energy potential for solar and wind installations.
@@ -23,22 +24,15 @@ This application showcases renewable energy solutions and provides tools for cal
 
 ## Screenshots
 
-| Home | Dashboard | Calculator |
-|---------|---------|---------|
-| ![Screenshot 2025-03-08 163605](https://github.com/user-attachments/assets/9b79423d-d1bd-4d17-9750-68ecb955b88c) | ![Screenshot 2025-03-08 163640](https://github.com/user-attachments/assets/99707e46-9a8e-4613-846c-b63e162df442) | ![Screenshot 2025-03-08 163706](https://github.com/user-attachments/assets/b3754562-8f43-4cd8-bfd9-e8b564383d90) |
+*Add your screenshots here*
 
 ## Installation
-
-You will need to change these two files:
-
-1. Go to src/integrations/supabase to the clients.ts file. Enter the "SUPABASE_URL" and "SUPABASE_PUBLISHABLE_KEY"
-2. Go to supabase/config.toml. Enter the "project_id"
 
 Follow these steps to set up the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/openqquantify/GreenEnergyInstitute.git
+git clone https://github.com/yourusername/green-energy-institute.git
 
 # Navigate to the project directory
 cd green-energy-institute
@@ -125,7 +119,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-For questions or support, please contact Tanya Thomas at contact@TanyaDThomas.com.
