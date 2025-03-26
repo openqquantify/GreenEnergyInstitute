@@ -24,7 +24,10 @@ This application showcases renewable energy solutions and provides tools for cal
 
 ## Screenshots
 
-*Add your screenshots here*
+| Home | Dashboard | Calculator |
+|---------|---------|---------|
+| ![Screenshot 2025-03-08 163605](https://github.com/user-attachments/assets/9b79423d-d1bd-4d17-9750-68ecb955b88c) | ![Screenshot 2025-03-08 163640](https://github.com/user-attachments/assets/99707e46-9a8e-4613-846c-b63e162df442) | ![Screenshot 2025-03-08 163706](https://github.com/user-attachments/assets/b3754562-8f43-4cd8-bfd9-e8b564383d90) |
+
 
 ## Installation
 
