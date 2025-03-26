@@ -32,7 +32,7 @@ Follow these steps to set up the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/green-energy-institute.git
+git clone https://github.com/openqquantify/GreenEnergyInstitute.git
 
 # Navigate to the project directory
 cd green-energy-institute
@@ -119,3 +119,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+
+For questions or support, please contact Tanya Thomas at contact@TanyaDThomas.com.
