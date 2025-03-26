@@ -31,11 +31,17 @@ This application showcases renewable energy solutions and provides tools for cal
 
 ## Installation
 
+
+You will need to change these two files:
+
+1. Go to src/integrations/supabase to the clients.ts file. Enter the "SUPABASE_URL" and "SUPABASE_PUBLISHABLE_KEY"
+2. Go to supabase/config.toml. Enter the "project_id"
+
 Follow these steps to set up the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/openqquantify/GreenEnergyInstitute.git
+git clone https://github.com/TTSouth/green-energy-institute.git
 
 # Navigate to the project directory
 cd green-energy-institute
